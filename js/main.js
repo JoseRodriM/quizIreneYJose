@@ -123,6 +123,3 @@ function nextFunction() {
 
 
 
-
-
-//funcion solo para fetch como return array pregutnas. Luego invocar funcion. en el then arrancar partida. invocar la funcion en el THEN ? 
